@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# FirstProjectAbuan
+#
+
+projectname: FirstProjectAbuan
+vendorid: com.lorenz
+mainmodule: com.lorenz.firstprojectabuan
